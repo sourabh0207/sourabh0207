@@ -9,6 +9,10 @@ I started my programming career since 2011 as PHP developer, Since 2016 I starte
 I'm always trying to grow and learning something new and innovative.  
 
 
+## :computer: Currently I'm Working On:
+<a href="https://gamerzi.com" target="__blank">Gamerzi<a> is a project where gamer can participate on game challenges.
+
+
 ## :fire: Technologies
 
 **Talk to me about**
